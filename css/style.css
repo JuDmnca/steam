@@ -161,13 +161,13 @@ justify-content: space-between;
 align-items: center;
 padding: 0;
 height: calc(100vh - 48px);
-background-image: url("img/background1.png");
+background-image: url("../img/background1.png");
 background-size: cover;
 
 }
 
 .steamworks {
-background-image: url("img/background4.png");
+background-image: url("../img/background4.png");
 background-size: cover;
 }
 
